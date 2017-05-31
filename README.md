@@ -1,6 +1,8 @@
-# GitTools
+# dotgitscrape
 
-This repository contains three small python/bash scripts used for the Git research. [Read about it here](http://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/)
+If your website lets people download files from a root-level `.git` folder, people can reconstruct much of the repository from that `.git` folder.  [This blog post](http://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/) describes the situation in more detail.
+
+This forked repository is for playing with my own copy of the code.
 
 ## Finder
 
